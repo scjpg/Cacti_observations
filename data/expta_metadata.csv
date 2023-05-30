@@ -1,0 +1,14 @@
+attribute,description
+experiment a,visitation rates
+year,calendar year
+census,"1, 2, 3 nights"
+date,calendar date in d/m/year format
+site_code,match to regional key file
+rep,"replicate cacti you sample, new ones each night please"
+microsite,cacti (you can add in a few open too if want or a shrub species
+lat,degrees decimal
+long,degrees decimal
+height,in m
+n_branches,best count and make notes on your counting rules
+n_flowers,"same, make a rule for your counting"
+n_visits,from cam traps
